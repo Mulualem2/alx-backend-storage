@@ -1,2 +1,0 @@
-// count the documents inside the collection school
-db.school.count()
